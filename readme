@@ -1,0 +1,30 @@
+Sorting Algorithm Visualizer
+Sorting Algorithm Visualizer is an interactive web application that allows users to visualize various sorting algorithms in action. Users can adjust the size of the array, choose the speed of the visualization, and select from a range of popular sorting algorithms to see how they work on randomly generated arrays.
+
+Features
+Interactive visualization of sorting algorithms
+Adjustable array size and visualization speed
+Choice of popular sorting algorithms: Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Quicksort, and Heapsort
+Dynamic resizing of array elements based on screen size
+Random array generation
+
+
+Getting Started
+
+Prerequisites
+A modern web browser (e.g., Google Chrome, Mozilla Firefox, or Microsoft Edge)
+A text editor for editing HTML, CSS, and JavaScript files (e.g., Visual Studio Code, Sublime Text, or Atom)
+
+
+Installation
+Clone the repository or download the source code.
+Open index.html in a web browser.
+
+
+Usage
+Adjust the array size using the "Size" slider.
+Select a sorting algorithm by clicking on one of the algorithm buttons.
+Adjust the visualization speed using the "Speed" slider.
+Click the "Randomize" button to generate a new random array.
+Click the "Sort" button to start the visualization of the selected sorting algorithm.
+Observe the sorting process and compare the performance of different algorithms.
